@@ -1,0 +1,11 @@
+.ost{
+    color: red;
+}
+.name{
+}
+.col{
+    color: blue;
+}
+a {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
